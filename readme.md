@@ -8,7 +8,7 @@
 
 ## 使用
 
-![Alt text](Resources/%E6%88%AA%E5%9B%BE.jpg)
+![Alt text](Resources/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE.png)
 
 * 如有更好的修改请告诉我。
 
